@@ -1,6 +1,6 @@
 ![Webdev Git Course](https://i.imgur.com/uEUKqAl.jpg)
 # Naučte se konečně Git — Git Workshop
-v0.3
+v0.4
 
 ## O kurzu
 Naučíme vás používat Git, abyste byli schopni všech základních operacích a budete rozumět všem základním pojmům.
